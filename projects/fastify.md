@@ -5,7 +5,7 @@
 | Metric | Data |
 |------|------|
 | GitHub | [fastify/fastify](https://github.com/fastify/fastify) |
-| Stars | 36,049 |
+| Stars | 36,050 |
 | Forks | 2,653 |
 | License | MIT |
 | Language | JavaScript/TypeScript |
@@ -35,3 +35,7 @@
 - JSON Schema-based (not Zod) — different from TypeScript ecosystem trend
 - Plugin encapsulation can be confusing initially
 - Losing edge/serverless mindshare to Hono
+
+## 天子点评
+
+Express的现代替代品，性能2倍提升。但定位尴尬——Edge场景Hono更好，全栈场景tRPC更好，企业场景NestJS更成熟。适合需要高性能Node.js服务器但不想用NestJS重量级框架的场景。一人公司优先级低。

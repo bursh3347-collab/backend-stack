@@ -49,3 +49,7 @@ const user = trpc.user.get.useQuery({ id: '1' })
 - Tight coupling between client and server
 - Not suitable for public APIs (use REST/GraphQL instead)
 - Some complexity with SSR/RSC integration
+
+## 天子点评
+
+Next.js全栈首选，零代码生成的端到端类型安全——改了后端接口，前端自动报错，一人公司没有QA也不怕。效率最大化的终极武器。唯一限制是不适合公开API，但Micro SaaS通常不需要。
