@@ -1,2 +1,25 @@
-# backend-stack
-从高星后端项目中提炼的最佳实践与代码，涵盖 API 设计、GraphQL、tRPC、FastAPI、NestJS 架构模式。
+# ⚙️ backend-stack
+
+[![Stars](https://img.shields.io/github/stars/bursh3347-collab/backend-stack?style=social)](https://github.com/bursh3347-collab/backend-stack)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> ⭐ **Maturity: L0 Seed** — No projects analyzed yet. Coming soon.
+
+Extracted best practices from high-star backend framework, API design, and server architecture projects.
+
+## 📂 Structure
+
+```
+backend-stack/
+├── projects/        ← Project analyses
+├── best-practices/  ← Distilled patterns
+├── code/            ← Reusable code
+├── comparison.md    ← Horizontal comparison
+├── SOURCES.md       ← Source list
+└── CONTRIBUTING.md
+```
+
+## 🔗 [All Repositories](https://github.com/bursh3347-collab)
+
+---
+*Powered by [天工系统](https://github.com/bursh3347-collab)*
