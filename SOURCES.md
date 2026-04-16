@@ -17,9 +17,15 @@
 | Django | https://github.com/django/django | ~84,000 | BSD-3 | Python Framework |
 | Nitro | https://github.com/unjs/nitro | ~6,000 | MIT | Universal Server |
 | BullMQ | https://github.com/taskforcesh/bullmq | ~6,000 | MIT | Job Queue |
+| Gin | https://github.com/gin-gonic/gin | ~80,000 | MIT | Go Framework |
+| Spring Boot | https://github.com/spring-projects/spring-boot | ~76,000 | Apache-2.0 | Java/Kotlin Framework |
+| Fiber | https://github.com/gofiber/fiber | ~35,000 | MIT | Go Framework |
+| Actix Web | https://github.com/actix/actix-web | ~22,000 | MIT / Apache-2.0 | Rust Framework |
+| Koa | https://github.com/koajs/koa | ~35,000 | MIT | Node.js Framework |
 
 ## License Compliance
-- 11/12 projects use permissive licenses (MIT or BSD-3) ✅
+- 15/17 projects use permissive licenses (MIT, Apache-2.0, or BSD-3) ✅
+- Actix Web dual-licensed MIT/Apache-2.0 — fully permissive ✅
 - ⚠️ Dragonfly uses BSL 1.1 — free to use but cannot offer as competing service
 - No copyleft (GPL/AGPL) dependencies identified ✅
 - Safe for commercial use and derivative works ✅
